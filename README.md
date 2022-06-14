@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Viz & RPA
 - ♻  I'm a Chemical Engineer currently working in a Consulting firm 
 - 🌱 I’m currently learning Machine learning algorithms
-- 💞️ I’m looking to collaborate on Data Science projects that aim to help Energy Transition (CO2 emissions tracking, Life Cycle Analysis, ...), optimize Business Processes, deliver nice dashboards to the end users, ...
+- 💞️ I’m looking to collaborate on Data Science projects that aim to help Energy Transition (CO2 emissions tracking, Life Cycle Analysis, ...), optimize Business Processes, deliver nice dashboards to end users, ...
 - 📫 How to reach me : https://www.linkedin.com/in/dumasstephane/
 
 <!---
