@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stephd91
+- 👋 Hi, I’m Stephane
 - 👀 I’m interested in Data analysis, Machine Learning, Data Viz & RPA
 - ♻  I'm currently working in a Consulting firm for energy companies
 - 💞️ I’m looking to collaborate on data projects that aim to help Energy Transition (CO2 emissions tracking, Life Cycle Analysis, ...), optimize Business Processes, deliver nice dashboards to end users, ...
