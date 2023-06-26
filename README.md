@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephane
-- 👀 I’m interested in Data engineering, Analytics, Machine Learning, Data Viz & RPA
-- ♻  I'm currently working in a Consulting firm for energy companies
+- 👀 I’m interested in Data engineering, Analytics & Machine Learning
+- ♻  I'm currently working in a Consulting firm
 - 💞️ I’m looking to collaborate on data projects that aim to create innovative apps, optimize Business Processes, deliver insights to end users, ...
 - 📫 How to reach me : https://www.linkedin.com/in/dumasstephane/
 
