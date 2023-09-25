@@ -1,8 +1,9 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   👋 Hi, I’m Stephane </br>
-  👀 I’m interested in Data engineering, Analytics & Machine Learning </br>
-  👍 I’m looking to collaborate on data projects that aim to create innovative apps, optimize Business Processes, deliver insights to end users, ... </br>
+  📌 France </br>
+  👀 Data engineering, Analytics, Machine Learning </br>
+  👍 Love to create innovative apps, optimize Business Processes, deliver insights to business users, ... </br>
   <a href="https://www.linkedin.com/in/dumasstephane/" target="blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/> </a> 
 </div>
 <!-- Tech Stack --> 
