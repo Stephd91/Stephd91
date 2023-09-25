@@ -2,7 +2,7 @@
 <div align="center">
   👋 Hi, I’m Stephane </br>
   📌 France </br>
-  👀 Data engineering, Analytics, Machine Learning </br>
+  👾 Data engineering, Analytics, Machine Learning </br>
   👍 Love to create innovative apps, optimize Business Processes, deliver insights to business users, ... </br>
   <a href="https://www.linkedin.com/in/dumasstephane/" target="blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/> </a> 
 </div>
